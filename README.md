@@ -43,5 +43,3 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mizane446/mizane446/output/github-snake-dark.svg" />
   <img src="https://raw.githubusercontent.com/mizane446/mizane446/output/github-snake.svg" alt="Contribution snake" />
 </picture>
-
-<p align="center"><sub>Made with <a href="https://github.com/mizane446/github-profile-optimizer">github-profile-optimizer</a></sub></p>
